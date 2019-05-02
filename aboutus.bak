@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About Us</title>
+		<HR>
+		<h2>Meet Our CEO!</h2>
+		<h4>Mr. Snuggles</h4>
+		<img src="bunny.jpg" alt="Bunny" height="300" width="300">
+		<hr>
+                <br>
+                ▓▓▓▓
+                <br>
+                ▒▒▒▓▓
+                <br>
+                ▒▒▒▒▒▓
+                <br>
+                ▒▒▒▒▒▒▓
+                <br>
+                ▒▒▒▒▒▒▓
+                <br>
+                ▒▒▒▒▒▒▒▓
+                <br>
+                ▒▒▒▒▒▒▒▓▓▓
+                <br>
+                ▒▓▓▓▓▓▓░░░▓
+                <br>
+                ▒▓░░░░▓░░░░▓
+                <br>
+                ▓░░░░░░▓░▓░▓
+                <br>
+                ▓░░░░░░▓░░░▓
+                <br>
+                ▓░░▓░░░▓▓▓▓
+                <br>
+                ▒▓░░░░▓▒▒▒▒▓
+                <br>
+                ▒▒▓▓▓▓▒▒▒▒▒▓
+                <br>
+                ▒▒▒▒▒▒▒▒▓▓▓▓
+                <br>
+                ▒▒▒▒▒▓▓▓▒▒▒▒▓
+                <br>
+                ▒▒▒▒▓▒▒▒▒▒▒▒▒▓
+                <br>
+                ▒▒▒▓▒▒▒▒▒▒▒▒▒▓
+                <br>
+                ▒▒▓▒▒▒▒▒▒▒▒▒▒▒▓
+                <br>
+                ▒▓▒▓▒▒▒▒▒▒▒▒▒▓
+                <br>
+                ▒▓▒▓▓▓▓▓▓▓▓▓▓
+                <br>
+                ▒▓▒▒▒▒▒▒▒▓
+                <br>
+                ▒▒▓▒▒▒▒▒▓
+		<hr>
+		<a href="index.html">Home Page</a>
+		<a href="products.html">Products</a>
+	</head>
+</html>

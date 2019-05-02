@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<title>Products</title>
+	<hr>
+	<body>
+		<style>
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 300px; 
+  .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+		</style>
+		        <div class="row">
+				<div class="column" style="background-color:#fff;">
+					<h4>1 Carrot      |       $1</h4>
+					<h4>2 Carrot      |       $2</h4>
+					<h4>3 Carrot      |       $3</h4>
+			                <h4>4 Carrot      |       $4</h4>
+        			        <h4>5 Carrot      |       $5</h4>
+                			<h4>6 Carrot      |       $6</h4>
+		               		<h4>7 Carrot      |       $7</h4>
+        			        <h4>8 Carrot      |       $8</h4>
+	        		        <h4>9 Carrot      |       $9</h4>
+				</div>
+				<div class="column" style="background-color:#fff;">
+					<img src="carrot.jpeg" alt="Carrots" height="300" width="300">
+					<h3>ENJOY CARROTS</h3>
+				</div>
+				<div class="column">
+					<a href="index.html">Home Page</a>
+		                        <a href="aboutus.html">About Us</a>
+				</div>
+			</div>
+	</body>
+</html>
